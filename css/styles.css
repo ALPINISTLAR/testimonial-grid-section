@@ -131,6 +131,9 @@ select:-webkit-autofill:focus {
   grid-row: 2 / -1;
   background-color: #19202D;
 }
+.testimonial-grid__card:nth-child(5) h3{
+  color: #ECF2F8;
+}
 .card-inner {
   padding: 26px 32px 32px;
 }
